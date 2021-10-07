@@ -1,4 +1,4 @@
-main, article, footer {
+main, article, footer, div {
   
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
@@ -44,6 +44,8 @@ footer{
   margin-top: 25px;
   margin-bottom: 10px;
   border-radius: 133px;
+  padding: 0px;
+  height: 200px ;
 }
 
 a:link{           /* Styled links using pseudo-classes */
